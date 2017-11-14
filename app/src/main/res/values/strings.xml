@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Case Pool</string>
+    <string name="add_a_new_case">case</string>
+    <string name="new_case">add a new case</string>
+</resources>
